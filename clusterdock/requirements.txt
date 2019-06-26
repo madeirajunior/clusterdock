@@ -1,0 +1,30 @@
+# Copyright (C) 2012 - 2018 Cloudera, Inc.
+# All Rights Reserved.
+
+backports.ssl-match-hostname==3.5.0.1
+braceexpand==0.1.2
+cffi==1.6.0
+colorama==0.2.5
+cryptography==1.3.4
+docker-py==1.8.1
+ecdsa==0.13
+enum34==1.1.6
+Fabric==1.11.1
+html5lib==0.999
+idna==2.1
+inflection==0.3.1
+ipaddress==1.0.16
+lxml==3.6.0
+Mako==1.0.4
+MarkupSafe==0.23
+ndg-httpsclient==0.4.0
+netaddr==0.7.18
+paramiko==2.0.0
+pyasn1==0.1.9
+pycparser==2.14
+pycrypto==2.6.1
+pyOpenSSL==16.0.0
+requests==2.10.0
+six==1.10.0
+urllib3==1.7.1
+websocket-client==0.37.0
